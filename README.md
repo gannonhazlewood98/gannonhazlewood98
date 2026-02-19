@@ -4,9 +4,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gannonhazlewood98/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/gannonhazlewood98/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/gannonhazlewood98/ticket-lifecycle)
+   - [osTicket: Ticket Lifecycle Examples](https://github.com/gannonhazlewood98/ticket-lifecycle)
 
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Gannon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
